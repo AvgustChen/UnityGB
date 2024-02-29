@@ -18,7 +18,7 @@ public class Coin : MonoBehaviour
                 {
                     if (hit.transform.gameObject.layer == 5)
                     {
-                        Money.money += 1;
+                        Money.money += 2;
                         Destroy(hit.transform.gameObject);
                     }
                 }

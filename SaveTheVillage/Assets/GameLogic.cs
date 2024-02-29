@@ -32,10 +32,10 @@ public class GameLogic : MonoBehaviour
     void Start()
     {
         costWheat = 1;
-        maxTime = 10;
-        currentTimeWheats = 10;
+        maxTime = 60;
+        currentTimeWheats = 5;
         enemyCount = 5;
-        Money.wariorCount = 2;
+        Money.wariorCount = 10;
         wheat = 0;
         img = img.GetComponent<Image>();
         currentTime = maxTime;
@@ -128,7 +128,7 @@ public class GameLogic : MonoBehaviour
     public void TakeWheats()
     {
         wheat += Convert.ToInt32(WheatCountLevel.text);
-        currentTimeWheats = 10;
+        currentTimeWheats = 5;
     }
 
     public void UpgradeWheats()
