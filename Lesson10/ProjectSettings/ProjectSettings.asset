@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 4fbba7eb17856f04984ae52b465a5ab2
+  productGUID: c84b3d66b2bb54f4b9b84f57a0e67c8c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Lesson9
+  productName: Lesson10
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -766,14 +766,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Lesson9
+  metroPackageName: Lesson10
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Lesson9
+  metroApplicationDescription: Lesson10
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -842,10 +842,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: e319ae01-60e6-472e-8950-f36a89c60810
+  cloudProjectId: dc2dafbf-a64b-404e-97cc-b0d51483cff5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Lesson9
+  projectName: Lesson10
   organizationId: avgust-chen
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
