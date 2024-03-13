@@ -6,12 +6,12 @@ public class LoadLevel : MonoBehaviour
 
     public void LoadLeve1()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void LoadLeve2()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
     void OnTriggerEnter(Collider other)
