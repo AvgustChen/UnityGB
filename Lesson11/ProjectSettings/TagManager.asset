@@ -7,6 +7,9 @@ TagManager:
   - Right
   - Left
   - Coin
+  - Location
+  - Enemy
+  - Time
   layers:
   - Default
   - TransparentFX
