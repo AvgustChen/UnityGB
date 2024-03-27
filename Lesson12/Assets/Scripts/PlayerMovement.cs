@@ -1,12 +1,12 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody))]
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField, Range(0, 10)] float speed = 2;
     private Rigidbody rb;
+    [SerializeField] ParticleSystem death;
 
     void Awake()
     {
@@ -16,6 +16,21 @@ public class PlayerMovement : MonoBehaviour
     public void MoveCharacter(Vector3 movement)
     {
         rb.AddForce(movement * speed);
+    }
+
+    void Restart()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Water"))
+        {
+            Instantiate(death, transform.position, Quaternion.identity);
+            Destroy(gameObject);
+            Invoke("Restart", 2);
+        }
     }
 
 #if UNITY_EDITOR
