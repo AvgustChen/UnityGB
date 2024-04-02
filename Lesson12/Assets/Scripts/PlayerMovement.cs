@@ -28,8 +28,7 @@ public class PlayerMovement : MonoBehaviour
         if (other.CompareTag("Water"))
         {
             Instantiate(death, transform.position, Quaternion.identity);
-            Destroy(gameObject);
-            Invoke("Restart", 2);
+            Invoke("Restart", 0.5f);
         }
     }
 
