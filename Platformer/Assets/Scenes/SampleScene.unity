@@ -372,7 +372,7 @@ GameObject:
   - component: {fileID: 30257156}
   - component: {fileID: 30257157}
   - component: {fileID: 30257158}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -590,7 +590,7 @@ GameObject:
   - component: {fileID: 36141870}
   - component: {fileID: 36141871}
   - component: {fileID: 36141872}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -726,7 +726,7 @@ GameObject:
   - component: {fileID: 45203604}
   - component: {fileID: 45203606}
   - component: {fileID: 45203605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -860,7 +860,7 @@ GameObject:
   - component: {fileID: 58416490}
   - component: {fileID: 58416492}
   - component: {fileID: 58416491}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1279,7 +1279,7 @@ GameObject:
   - component: {fileID: 81914671}
   - component: {fileID: 81914670}
   - component: {fileID: 81914673}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1459,7 +1459,7 @@ GameObject:
   - component: {fileID: 86886226}
   - component: {fileID: 86886227}
   - component: {fileID: 86886228}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1636,7 +1636,7 @@ GameObject:
   - component: {fileID: 94492499}
   - component: {fileID: 94492500}
   - component: {fileID: 94492501}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1854,7 +1854,7 @@ GameObject:
   - component: {fileID: 101058173}
   - component: {fileID: 101058174}
   - component: {fileID: 101058175}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1988,7 +1988,7 @@ GameObject:
   - component: {fileID: 110150398}
   - component: {fileID: 110150399}
   - component: {fileID: 110150400}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2122,7 +2122,7 @@ GameObject:
   - component: {fileID: 132448233}
   - component: {fileID: 132448234}
   - component: {fileID: 132448235}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2340,7 +2340,7 @@ GameObject:
   - component: {fileID: 139324375}
   - component: {fileID: 139324376}
   - component: {fileID: 139324377}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2474,7 +2474,7 @@ GameObject:
   - component: {fileID: 144060156}
   - component: {fileID: 144060157}
   - component: {fileID: 144060158}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2608,7 +2608,7 @@ GameObject:
   - component: {fileID: 144917910}
   - component: {fileID: 144917911}
   - component: {fileID: 144917912}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2980,7 +2980,7 @@ GameObject:
   - component: {fileID: 166788927}
   - component: {fileID: 166788928}
   - component: {fileID: 166788929}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3198,7 +3198,7 @@ GameObject:
   - component: {fileID: 200395254}
   - component: {fileID: 200395256}
   - component: {fileID: 200395255}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3333,7 +3333,7 @@ GameObject:
   - component: {fileID: 211795307}
   - component: {fileID: 211795306}
   - component: {fileID: 211795305}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3488,7 +3488,7 @@ GameObject:
   - component: {fileID: 227138312}
   - component: {fileID: 227138314}
   - component: {fileID: 227138313}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3622,7 +3622,7 @@ GameObject:
   - component: {fileID: 235005059}
   - component: {fileID: 235005060}
   - component: {fileID: 235005061}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3995,7 +3995,7 @@ GameObject:
   - component: {fileID: 241957364}
   - component: {fileID: 241957365}
   - component: {fileID: 241957366}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4213,7 +4213,7 @@ GameObject:
   - component: {fileID: 251961020}
   - component: {fileID: 251961021}
   - component: {fileID: 251961022}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4347,7 +4347,7 @@ GameObject:
   - component: {fileID: 255823533}
   - component: {fileID: 255823535}
   - component: {fileID: 255823534}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4565,7 +4565,7 @@ GameObject:
   - component: {fileID: 259402700}
   - component: {fileID: 259402701}
   - component: {fileID: 259402702}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4783,7 +4783,7 @@ GameObject:
   - component: {fileID: 286382840}
   - component: {fileID: 286382842}
   - component: {fileID: 286382841}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4918,7 +4918,7 @@ GameObject:
   - component: {fileID: 297096406}
   - component: {fileID: 297096405}
   - component: {fileID: 297096404}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5072,7 +5072,7 @@ GameObject:
   - component: {fileID: 298045817}
   - component: {fileID: 298045816}
   - component: {fileID: 298045815}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5380,7 +5380,7 @@ GameObject:
   - component: {fileID: 307619222}
   - component: {fileID: 307619221}
   - component: {fileID: 307619220}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5619,7 +5619,7 @@ GameObject:
   - component: {fileID: 321559594}
   - component: {fileID: 321559596}
   - component: {fileID: 321559595}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5753,7 +5753,7 @@ GameObject:
   - component: {fileID: 323774288}
   - component: {fileID: 323774289}
   - component: {fileID: 323774290}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5887,7 +5887,7 @@ GameObject:
   - component: {fileID: 333240215}
   - component: {fileID: 333240217}
   - component: {fileID: 333240216}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6021,7 +6021,7 @@ GameObject:
   - component: {fileID: 335623956}
   - component: {fileID: 335623957}
   - component: {fileID: 335623958}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6155,7 +6155,7 @@ GameObject:
   - component: {fileID: 346888193}
   - component: {fileID: 346888194}
   - component: {fileID: 346888195}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6290,7 +6290,7 @@ GameObject:
   - component: {fileID: 348487430}
   - component: {fileID: 348487429}
   - component: {fileID: 348487428}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6443,7 +6443,7 @@ GameObject:
   - component: {fileID: 351339948}
   - component: {fileID: 351339949}
   - component: {fileID: 351339950}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6577,7 +6577,7 @@ GameObject:
   - component: {fileID: 351714019}
   - component: {fileID: 351714020}
   - component: {fileID: 351714021}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6713,7 +6713,7 @@ GameObject:
   - component: {fileID: 351821139}
   - component: {fileID: 351821140}
   - component: {fileID: 351821141}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6847,7 +6847,7 @@ GameObject:
   - component: {fileID: 362433883}
   - component: {fileID: 362433884}
   - component: {fileID: 362433885}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6981,7 +6981,7 @@ GameObject:
   - component: {fileID: 371386358}
   - component: {fileID: 371386359}
   - component: {fileID: 371386360}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7115,7 +7115,7 @@ GameObject:
   - component: {fileID: 372526103}
   - component: {fileID: 372526104}
   - component: {fileID: 372526105}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7249,7 +7249,7 @@ GameObject:
   - component: {fileID: 374701476}
   - component: {fileID: 374701477}
   - component: {fileID: 374701478}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7383,7 +7383,7 @@ GameObject:
   - component: {fileID: 379754720}
   - component: {fileID: 379754721}
   - component: {fileID: 379754722}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7517,7 +7517,7 @@ GameObject:
   - component: {fileID: 380495117}
   - component: {fileID: 380495118}
   - component: {fileID: 380495119}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7651,7 +7651,7 @@ GameObject:
   - component: {fileID: 385421183}
   - component: {fileID: 385421184}
   - component: {fileID: 385421185}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7787,7 +7787,7 @@ GameObject:
   - component: {fileID: 389744446}
   - component: {fileID: 389744447}
   - component: {fileID: 389744448}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7922,7 +7922,7 @@ GameObject:
   - component: {fileID: 392310426}
   - component: {fileID: 392310425}
   - component: {fileID: 392310424}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8075,7 +8075,7 @@ GameObject:
   - component: {fileID: 398991433}
   - component: {fileID: 398991434}
   - component: {fileID: 398991435}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8211,7 +8211,7 @@ GameObject:
   - component: {fileID: 399796275}
   - component: {fileID: 399796274}
   - component: {fileID: 399796277}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8546,7 +8546,7 @@ GameObject:
   - component: {fileID: 402058480}
   - component: {fileID: 402058481}
   - component: {fileID: 402058482}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8681,7 +8681,7 @@ GameObject:
   - component: {fileID: 404167248}
   - component: {fileID: 404167247}
   - component: {fileID: 404167246}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9185,7 +9185,7 @@ GameObject:
   - component: {fileID: 420932520}
   - component: {fileID: 420932521}
   - component: {fileID: 420932522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9319,7 +9319,7 @@ GameObject:
   - component: {fileID: 423411416}
   - component: {fileID: 423411417}
   - component: {fileID: 423411418}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9453,7 +9453,7 @@ GameObject:
   - component: {fileID: 429482404}
   - component: {fileID: 429482406}
   - component: {fileID: 429482405}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9670,7 +9670,7 @@ GameObject:
   m_Component:
   - component: {fileID: 445345891}
   - component: {fileID: 445345893}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_172
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9756,7 +9756,7 @@ GameObject:
   - component: {fileID: 447555613}
   - component: {fileID: 447555612}
   - component: {fileID: 447555611}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10062,7 +10062,7 @@ GameObject:
   m_Component:
   - component: {fileID: 453522186}
   - component: {fileID: 453522187}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_195
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10147,7 +10147,7 @@ GameObject:
   - component: {fileID: 454329448}
   - component: {fileID: 454329449}
   - component: {fileID: 454329450}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10435,7 +10435,7 @@ GameObject:
   - component: {fileID: 470535740}
   - component: {fileID: 470535741}
   - component: {fileID: 470535742}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10569,7 +10569,7 @@ GameObject:
   - component: {fileID: 475496941}
   - component: {fileID: 475496942}
   - component: {fileID: 475496943}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10705,7 +10705,7 @@ GameObject:
   - component: {fileID: 476534814}
   - component: {fileID: 476534813}
   - component: {fileID: 476534816}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10928,7 +10928,7 @@ GameObject:
   - component: {fileID: 511470058}
   - component: {fileID: 511470060}
   - component: {fileID: 511470059}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11064,7 +11064,7 @@ GameObject:
   - component: {fileID: 517477603}
   - component: {fileID: 517477602}
   - component: {fileID: 517477605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11244,7 +11244,7 @@ GameObject:
   - component: {fileID: 517688560}
   - component: {fileID: 517688561}
   - component: {fileID: 517688562}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11453,7 +11453,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -90}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11683,8 +11683,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1696068099, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -11792,7 +11792,7 @@ GameObject:
   - component: {fileID: 554933224}
   - component: {fileID: 554933225}
   - component: {fileID: 554933226}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12081,7 +12081,7 @@ GameObject:
   - component: {fileID: 563978019}
   - component: {fileID: 563978020}
   - component: {fileID: 563978021}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12297,7 +12297,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 579624393}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bridge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12432,7 +12432,7 @@ GameObject:
   - component: {fileID: 594522125}
   - component: {fileID: 594522124}
   - component: {fileID: 594522127}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12612,7 +12612,7 @@ GameObject:
   - component: {fileID: 599297276}
   - component: {fileID: 599297277}
   - component: {fileID: 599297278}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12746,7 +12746,7 @@ GameObject:
   - component: {fileID: 604476987}
   - component: {fileID: 604476988}
   - component: {fileID: 604476989}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12880,7 +12880,7 @@ GameObject:
   - component: {fileID: 605165311}
   - component: {fileID: 605165312}
   - component: {fileID: 605165313}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13014,7 +13014,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 605258595}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13077,7 +13077,7 @@ GameObject:
   - component: {fileID: 606670711}
   - component: {fileID: 606670712}
   - component: {fileID: 606670713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13211,7 +13211,7 @@ GameObject:
   - component: {fileID: 611901282}
   - component: {fileID: 611901283}
   - component: {fileID: 611901284}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13583,7 +13583,7 @@ GameObject:
   - component: {fileID: 642719565}
   - component: {fileID: 642719566}
   - component: {fileID: 642719567}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13790,6 +13790,83 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &644710658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 644710659}
+  - component: {fileID: 644710660}
+  m_Layer: 0
+  m_Name: BodyCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &644710659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644710658}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1640746927}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &644710660
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644710658}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.04758334, y: 0.30388442}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.09591675, y: 0.31436747}
+  m_EdgeRadius: 0
 --- !u!1 &649484430
 GameObject:
   m_ObjectHideFlags: 0
@@ -13801,7 +13878,7 @@ GameObject:
   - component: {fileID: 649484431}
   - component: {fileID: 649484433}
   - component: {fileID: 649484432}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14089,7 +14166,7 @@ GameObject:
   - component: {fileID: 652270831}
   - component: {fileID: 652270832}
   - component: {fileID: 652270833}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14282,8 +14359,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1696068099, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -14545,7 +14622,7 @@ GameObject:
   - component: {fileID: 682153468}
   - component: {fileID: 682153469}
   - component: {fileID: 682153470}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14763,7 +14840,7 @@ GameObject:
   - component: {fileID: 705294274}
   - component: {fileID: 705294275}
   - component: {fileID: 705294276}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14981,7 +15058,7 @@ GameObject:
   - component: {fileID: 716629450}
   - component: {fileID: 716629451}
   - component: {fileID: 716629452}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15115,7 +15192,7 @@ GameObject:
   - component: {fileID: 732383182}
   - component: {fileID: 732383183}
   - component: {fileID: 732383184}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15249,7 +15326,7 @@ GameObject:
   - component: {fileID: 733498867}
   - component: {fileID: 733498868}
   - component: {fileID: 733498869}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15383,7 +15460,7 @@ GameObject:
   - component: {fileID: 734285715}
   - component: {fileID: 734285716}
   - component: {fileID: 734285717}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15519,7 +15596,7 @@ GameObject:
   - component: {fileID: 758503396}
   - component: {fileID: 758503397}
   - component: {fileID: 758503398}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15652,7 +15729,7 @@ GameObject:
   m_Component:
   - component: {fileID: 769389778}
   - component: {fileID: 769389780}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_195
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15952,9 +16029,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1279798695, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16217,7 +16294,7 @@ GameObject:
   - component: {fileID: 794975503}
   - component: {fileID: 794975502}
   - component: {fileID: 794975505}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16397,7 +16474,7 @@ GameObject:
   - component: {fileID: 800149627}
   - component: {fileID: 800149628}
   - component: {fileID: 800149629}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16533,7 +16610,7 @@ GameObject:
   - component: {fileID: 801078891}
   - component: {fileID: 801078892}
   - component: {fileID: 801078893}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16905,7 +16982,7 @@ GameObject:
   - component: {fileID: 815247099}
   - component: {fileID: 815247100}
   - component: {fileID: 815247101}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17039,7 +17116,7 @@ GameObject:
   - component: {fileID: 825772709}
   - component: {fileID: 825772710}
   - component: {fileID: 825772711}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17173,8 +17250,9 @@ GameObject:
   - component: {fileID: 836851443}
   - component: {fileID: 836851442}
   - component: {fileID: 836851441}
-  - component: {fileID: 836851445}
   - component: {fileID: 836851444}
+  - component: {fileID: 836851446}
+  - component: {fileID: 836851445}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -17267,7 +17345,8 @@ Transform:
   m_LocalPosition: {x: -1.588927, y: -0.73632956, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1640746927}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &836851444
@@ -17297,41 +17376,36 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!70 &836851445
-CapsuleCollider2D:
+--- !u!114 &836851445
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 836851440}
   m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 246b54facda7f7343a893944be9f8b4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpForce: 3
+  groundColliderTransform: {fileID: 1849316743}
+  speed: 3
+  groundMask:
     serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.06, y: 0.245}
-  m_Size: {x: 0.23, y: 0.47}
-  m_Direction: 0
+    m_Bits: 8
+--- !u!114 &836851446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 836851440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74af5eb07aad6c846b2b8dd9c5645614, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &844289621
 GameObject:
   m_ObjectHideFlags: 0
@@ -17486,9 +17560,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: 383422731, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17511,7 +17585,7 @@ GameObject:
   - component: {fileID: 847837129}
   - component: {fileID: 847837130}
   - component: {fileID: 847837131}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17643,7 +17717,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 859956605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17840,7 +17914,7 @@ GameObject:
   - component: {fileID: 863948176}
   - component: {fileID: 863948177}
   - component: {fileID: 863948178}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17974,7 +18048,7 @@ GameObject:
   - component: {fileID: 866151162}
   - component: {fileID: 866151163}
   - component: {fileID: 866151164}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18192,7 +18266,7 @@ GameObject:
   - component: {fileID: 884979593}
   - component: {fileID: 884979594}
   - component: {fileID: 884979595}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18480,7 +18554,7 @@ GameObject:
   - component: {fileID: 893045144}
   - component: {fileID: 893045145}
   - component: {fileID: 893045146}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18698,7 +18772,7 @@ GameObject:
   - component: {fileID: 904347822}
   - component: {fileID: 904347823}
   - component: {fileID: 904347824}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18834,7 +18908,7 @@ GameObject:
   - component: {fileID: 906353940}
   - component: {fileID: 906353939}
   - component: {fileID: 906353942}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19141,7 +19215,7 @@ GameObject:
   - component: {fileID: 910585726}
   - component: {fileID: 910585727}
   - component: {fileID: 910585728}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19275,7 +19349,7 @@ GameObject:
   - component: {fileID: 912574084}
   - component: {fileID: 912574085}
   - component: {fileID: 912574086}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19409,7 +19483,7 @@ GameObject:
   - component: {fileID: 913727850}
   - component: {fileID: 913727851}
   - component: {fileID: 913727852}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19627,7 +19701,7 @@ GameObject:
   - component: {fileID: 927448424}
   - component: {fileID: 927448425}
   - component: {fileID: 927448426}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19761,7 +19835,7 @@ GameObject:
   - component: {fileID: 956532482}
   - component: {fileID: 956532483}
   - component: {fileID: 956532484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20049,7 +20123,7 @@ GameObject:
   - component: {fileID: 971237036}
   - component: {fileID: 971237037}
   - component: {fileID: 971237038}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20183,7 +20257,7 @@ GameObject:
   - component: {fileID: 972113283}
   - component: {fileID: 972113284}
   - component: {fileID: 972113285}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20318,7 +20392,7 @@ GameObject:
   - component: {fileID: 977835134}
   - component: {fileID: 977835133}
   - component: {fileID: 977835132}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20822,7 +20896,7 @@ GameObject:
   - component: {fileID: 1007679097}
   - component: {fileID: 1007679098}
   - component: {fileID: 1007679099}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20956,7 +21030,7 @@ GameObject:
   - component: {fileID: 1007963283}
   - component: {fileID: 1007963284}
   - component: {fileID: 1007963285}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21090,7 +21164,7 @@ GameObject:
   - component: {fileID: 1008770164}
   - component: {fileID: 1008770165}
   - component: {fileID: 1008770166}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21223,7 +21297,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1017188780}
   - component: {fileID: 1017188782}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_173
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21308,7 +21382,7 @@ GameObject:
   - component: {fileID: 1031284878}
   - component: {fileID: 1031284879}
   - component: {fileID: 1031284880}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21442,7 +21516,7 @@ GameObject:
   - component: {fileID: 1032709853}
   - component: {fileID: 1032709854}
   - component: {fileID: 1032709855}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21576,7 +21650,7 @@ GameObject:
   - component: {fileID: 1036295628}
   - component: {fileID: 1036295629}
   - component: {fileID: 1036295630}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21710,7 +21784,7 @@ GameObject:
   - component: {fileID: 1040491586}
   - component: {fileID: 1040491587}
   - component: {fileID: 1040491588}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21844,7 +21918,7 @@ GameObject:
   - component: {fileID: 1042089663}
   - component: {fileID: 1042089664}
   - component: {fileID: 1042089665}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21978,7 +22052,7 @@ GameObject:
   - component: {fileID: 1044821522}
   - component: {fileID: 1044821523}
   - component: {fileID: 1044821524}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22112,7 +22186,7 @@ GameObject:
   - component: {fileID: 1049022672}
   - component: {fileID: 1049022674}
   - component: {fileID: 1049022673}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22246,7 +22320,7 @@ GameObject:
   - component: {fileID: 1049329007}
   - component: {fileID: 1049329009}
   - component: {fileID: 1049329008}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22379,7 +22453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1051672526}
   - component: {fileID: 1051672527}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_194
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22464,7 +22538,7 @@ GameObject:
   - component: {fileID: 1063564236}
   - component: {fileID: 1063564238}
   - component: {fileID: 1063564237}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22752,7 +22826,7 @@ GameObject:
   - component: {fileID: 1068015678}
   - component: {fileID: 1068015679}
   - component: {fileID: 1068015680}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22886,7 +22960,7 @@ GameObject:
   - component: {fileID: 1077723152}
   - component: {fileID: 1077723153}
   - component: {fileID: 1077723154}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23149,7 +23223,7 @@ GameObject:
   - component: {fileID: 1092302327}
   - component: {fileID: 1092302326}
   - component: {fileID: 1092302329}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23329,7 +23403,7 @@ GameObject:
   - component: {fileID: 1097450595}
   - component: {fileID: 1097450597}
   - component: {fileID: 1097450596}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23617,7 +23691,7 @@ GameObject:
   - component: {fileID: 1098653793}
   - component: {fileID: 1098653794}
   - component: {fileID: 1098653795}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23749,7 +23823,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1104695163}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23812,7 +23886,7 @@ GameObject:
   - component: {fileID: 1117206482}
   - component: {fileID: 1117206483}
   - component: {fileID: 1117206484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23948,7 +24022,7 @@ GameObject:
   - component: {fileID: 1118127943}
   - component: {fileID: 1118127942}
   - component: {fileID: 1118127945}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24128,7 +24202,7 @@ GameObject:
   - component: {fileID: 1126208417}
   - component: {fileID: 1126208418}
   - component: {fileID: 1126208419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24262,7 +24336,7 @@ GameObject:
   - component: {fileID: 1135304519}
   - component: {fileID: 1135304520}
   - component: {fileID: 1135304521}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24396,7 +24470,7 @@ GameObject:
   - component: {fileID: 1139951637}
   - component: {fileID: 1139951638}
   - component: {fileID: 1139951639}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24530,7 +24604,7 @@ GameObject:
   - component: {fileID: 1141944444}
   - component: {fileID: 1141944445}
   - component: {fileID: 1141944446}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24664,7 +24738,7 @@ GameObject:
   - component: {fileID: 1142721628}
   - component: {fileID: 1142721629}
   - component: {fileID: 1142721630}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24798,7 +24872,7 @@ GameObject:
   - component: {fileID: 1146569461}
   - component: {fileID: 1146569462}
   - component: {fileID: 1146569463}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24932,7 +25006,7 @@ GameObject:
   - component: {fileID: 1164076356}
   - component: {fileID: 1164076357}
   - component: {fileID: 1164076358}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25234,7 +25308,7 @@ GameObject:
   - component: {fileID: 1193128338}
   - component: {fileID: 1193128339}
   - component: {fileID: 1193128340}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25368,7 +25442,7 @@ GameObject:
   - component: {fileID: 1194898284}
   - component: {fileID: 1194898285}
   - component: {fileID: 1194898286}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25502,7 +25576,7 @@ GameObject:
   - component: {fileID: 1196487691}
   - component: {fileID: 1196487692}
   - component: {fileID: 1196487693}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25634,7 +25708,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1198340400}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25681,7 +25755,7 @@ GameObject:
   - component: {fileID: 1201127221}
   - component: {fileID: 1201127222}
   - component: {fileID: 1201127223}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25815,7 +25889,7 @@ GameObject:
   - component: {fileID: 1218067027}
   - component: {fileID: 1218067028}
   - component: {fileID: 1218067029}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26008,9 +26082,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1279798695, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26033,7 +26107,7 @@ GameObject:
   - component: {fileID: 1219729480}
   - component: {fileID: 1219729482}
   - component: {fileID: 1219729481}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26165,7 +26239,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1219753944}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26220,7 +26294,7 @@ GameObject:
   - component: {fileID: 1220949544}
   - component: {fileID: 1220949545}
   - component: {fileID: 1220949546}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26354,7 +26428,7 @@ GameObject:
   - component: {fileID: 1225155017}
   - component: {fileID: 1225155018}
   - component: {fileID: 1225155019}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26488,7 +26562,7 @@ GameObject:
   - component: {fileID: 1239084964}
   - component: {fileID: 1239084965}
   - component: {fileID: 1239084966}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26622,7 +26696,7 @@ GameObject:
   - component: {fileID: 1242859176}
   - component: {fileID: 1242859177}
   - component: {fileID: 1242859178}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26994,7 +27068,7 @@ GameObject:
   - component: {fileID: 1247544625}
   - component: {fileID: 1247544626}
   - component: {fileID: 1247544627}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27172,7 +27246,7 @@ GameObject:
   - component: {fileID: 1249619111}
   - component: {fileID: 1249619110}
   - component: {fileID: 1249619113}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_94
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27592,7 +27666,7 @@ GameObject:
   - component: {fileID: 1275001578}
   - component: {fileID: 1275001579}
   - component: {fileID: 1275001580}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27726,7 +27800,7 @@ GameObject:
   - component: {fileID: 1278361728}
   - component: {fileID: 1278361729}
   - component: {fileID: 1278361730}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27944,7 +28018,7 @@ GameObject:
   - component: {fileID: 1298072096}
   - component: {fileID: 1298072098}
   - component: {fileID: 1298072097}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28080,7 +28154,7 @@ GameObject:
   - component: {fileID: 1301184595}
   - component: {fileID: 1301184596}
   - component: {fileID: 1301184597}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28214,7 +28288,7 @@ GameObject:
   - component: {fileID: 1318780336}
   - component: {fileID: 1318780337}
   - component: {fileID: 1318780338}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28346,7 +28420,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1327398437}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28489,7 +28563,7 @@ GameObject:
   - component: {fileID: 1334465198}
   - component: {fileID: 1334465199}
   - component: {fileID: 1334465200}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28621,7 +28695,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1336178204}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28664,7 +28738,7 @@ GameObject:
   - component: {fileID: 1346209578}
   - component: {fileID: 1346209579}
   - component: {fileID: 1346209580}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28799,7 +28873,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1347085709}
   - component: {fileID: 1347085711}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_194
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29360,7 +29434,7 @@ GameObject:
   - component: {fileID: 1386305836}
   - component: {fileID: 1386305837}
   - component: {fileID: 1386305838}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29818,7 +29892,7 @@ GameObject:
   - component: {fileID: 1400024365}
   - component: {fileID: 1400024366}
   - component: {fileID: 1400024367}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29952,7 +30026,7 @@ GameObject:
   - component: {fileID: 1400532432}
   - component: {fileID: 1400532433}
   - component: {fileID: 1400532434}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30086,7 +30160,7 @@ GameObject:
   - component: {fileID: 1402634165}
   - component: {fileID: 1402634166}
   - component: {fileID: 1402634167}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30304,7 +30378,7 @@ GameObject:
   - component: {fileID: 1411164550}
   - component: {fileID: 1411164551}
   - component: {fileID: 1411164552}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30441,7 +30515,7 @@ GameObject:
   - component: {fileID: 1417411844}
   - component: {fileID: 1417411843}
   - component: {fileID: 1417411842}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30596,7 +30670,7 @@ GameObject:
   - component: {fileID: 1417764417}
   - component: {fileID: 1417764416}
   - component: {fileID: 1417764419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_96
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30933,7 +31007,7 @@ GameObject:
   - component: {fileID: 1441913820}
   - component: {fileID: 1441913821}
   - component: {fileID: 1441913822}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31067,7 +31141,7 @@ GameObject:
   - component: {fileID: 1462313488}
   - component: {fileID: 1462313489}
   - component: {fileID: 1462313490}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31201,7 +31275,7 @@ GameObject:
   - component: {fileID: 1465149392}
   - component: {fileID: 1465149393}
   - component: {fileID: 1465149394}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31333,7 +31407,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1473155230}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31606,9 +31680,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: 383422731, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -31631,7 +31705,7 @@ GameObject:
   - component: {fileID: 1476737939}
   - component: {fileID: 1476737940}
   - component: {fileID: 1476737941}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31765,7 +31839,7 @@ GameObject:
   - component: {fileID: 1491695783}
   - component: {fileID: 1491695784}
   - component: {fileID: 1491695785}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31983,7 +32057,7 @@ GameObject:
   - component: {fileID: 1496511931}
   - component: {fileID: 1496511932}
   - component: {fileID: 1496511933}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32609,7 +32683,7 @@ GameObject:
   - component: {fileID: 1520179726}
   - component: {fileID: 1520179727}
   - component: {fileID: 1520179728}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32745,7 +32819,7 @@ GameObject:
   - component: {fileID: 1522568067}
   - component: {fileID: 1522568066}
   - component: {fileID: 1522568069}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32927,7 +33001,7 @@ GameObject:
   - component: {fileID: 1523639389}
   - component: {fileID: 1523639388}
   - component: {fileID: 1523639391}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33274,7 +33348,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1531790245}
   - component: {fileID: 1531790246}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_195
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33359,7 +33433,7 @@ GameObject:
   - component: {fileID: 1541151219}
   - component: {fileID: 1541151220}
   - component: {fileID: 1541151221}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33803,7 +33877,7 @@ GameObject:
   - component: {fileID: 1553874435}
   - component: {fileID: 1553874434}
   - component: {fileID: 1553874433}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Box (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33911,7 +33985,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1558589030}
   - component: {fileID: 1558589031}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_172
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33996,7 +34070,7 @@ GameObject:
   - component: {fileID: 1561906869}
   - component: {fileID: 1561906870}
   - component: {fileID: 1561906871}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34130,7 +34204,7 @@ GameObject:
   - component: {fileID: 1564026482}
   - component: {fileID: 1564026483}
   - component: {fileID: 1564026484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34561,8 +34635,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1696068099, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -34835,9 +34909,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1279798695, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34860,7 +34934,7 @@ GameObject:
   - component: {fileID: 1583165041}
   - component: {fileID: 1583165042}
   - component: {fileID: 1583165043}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34994,7 +35068,7 @@ GameObject:
   - component: {fileID: 1596797461}
   - component: {fileID: 1596797462}
   - component: {fileID: 1596797463}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35128,7 +35202,7 @@ GameObject:
   - component: {fileID: 1604463102}
   - component: {fileID: 1604463103}
   - component: {fileID: 1604463104}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35347,7 +35421,7 @@ GameObject:
   - component: {fileID: 1607791392}
   - component: {fileID: 1607791391}
   - component: {fileID: 1607791390}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35559,9 +35633,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1100219454, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -35739,7 +35813,7 @@ GameObject:
   - component: {fileID: 1613801786}
   - component: {fileID: 1613801785}
   - component: {fileID: 1613801784}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36119,6 +36193,39 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1640746926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1640746927}
+  m_Layer: 0
+  m_Name: Colliders
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1640746927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1640746926}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 644710659}
+  - {fileID: 1849316743}
+  m_Father: {fileID: 836851443}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1646610359
 GameObject:
   m_ObjectHideFlags: 0
@@ -36189,8 +36296,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1696068099, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -36298,7 +36405,7 @@ GameObject:
   - component: {fileID: 1661281241}
   - component: {fileID: 1661281242}
   - component: {fileID: 1661281243}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36432,7 +36539,7 @@ GameObject:
   - component: {fileID: 1673793913}
   - component: {fileID: 1673793914}
   - component: {fileID: 1673793915}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36649,7 +36756,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1682722895}
   - component: {fileID: 1682722896}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_194
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36819,7 +36926,7 @@ GameObject:
   - component: {fileID: 1694253044}
   - component: {fileID: 1694253043}
   - component: {fileID: 1694253042}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37056,7 +37163,7 @@ GameObject:
   - component: {fileID: 1699070634}
   - component: {fileID: 1699070635}
   - component: {fileID: 1699070636}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37190,7 +37297,7 @@ GameObject:
   - component: {fileID: 1705307837}
   - component: {fileID: 1705307839}
   - component: {fileID: 1705307838}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37478,7 +37585,7 @@ GameObject:
   - component: {fileID: 1726345873}
   - component: {fileID: 1726345874}
   - component: {fileID: 1726345875}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37671,8 +37778,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 1696068099, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -37696,7 +37803,7 @@ GameObject:
   - component: {fileID: 1732872659}
   - component: {fileID: 1732872660}
   - component: {fileID: 1732872661}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38068,7 +38175,7 @@ GameObject:
   - component: {fileID: 1754907305}
   - component: {fileID: 1754907304}
   - component: {fileID: 1754907306}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38223,7 +38330,7 @@ GameObject:
   - component: {fileID: 1760773960}
   - component: {fileID: 1760773962}
   - component: {fileID: 1760773961}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38512,7 +38619,7 @@ GameObject:
   - component: {fileID: 1763512260}
   - component: {fileID: 1763512262}
   - component: {fileID: 1763512261}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38648,7 +38755,7 @@ GameObject:
   - component: {fileID: 1767942459}
   - component: {fileID: 1767942458}
   - component: {fileID: 1767942461}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38829,7 +38936,7 @@ GameObject:
   - component: {fileID: 1777832776}
   - component: {fileID: 1777832775}
   - component: {fileID: 1777832774}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39138,7 +39245,7 @@ GameObject:
   - component: {fileID: 1785968542}
   - component: {fileID: 1785968541}
   - component: {fileID: 1785968544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39377,9 +39484,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1100219454, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -39697,7 +39804,7 @@ GameObject:
   - component: {fileID: 1817024358}
   - component: {fileID: 1817024360}
   - component: {fileID: 1817024359}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39831,7 +39938,7 @@ GameObject:
   - component: {fileID: 1825695015}
   - component: {fileID: 1825695016}
   - component: {fileID: 1825695017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40119,7 +40226,7 @@ GameObject:
   - component: {fileID: 1828513631}
   - component: {fileID: 1828513632}
   - component: {fileID: 1828513633}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40337,7 +40444,7 @@ GameObject:
   - component: {fileID: 1844695797}
   - component: {fileID: 1844695798}
   - component: {fileID: 1844695799}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40470,7 +40577,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1845428345}
   - component: {fileID: 1845428346}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_172
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40544,6 +40651,73 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1849316742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1849316743}
+  - component: {fileID: 1849316744}
+  m_Layer: 0
+  m_Name: GroundCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1849316743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849316742}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1640746927}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1849316744
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849316742}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.07303709, y: 0.07579315}
+  serializedVersion: 2
+  m_Radius: 0.07
 --- !u!1 &1849942797
 GameObject:
   m_ObjectHideFlags: 0
@@ -40555,7 +40729,7 @@ GameObject:
   - component: {fileID: 1849942798}
   - component: {fileID: 1849942799}
   - component: {fileID: 1849942800}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40689,7 +40863,7 @@ GameObject:
   - component: {fileID: 1853925367}
   - component: {fileID: 1853925368}
   - component: {fileID: 1853925369}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40907,7 +41081,7 @@ GameObject:
   - component: {fileID: 1859113867}
   - component: {fileID: 1859113868}
   - component: {fileID: 1859113869}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41195,7 +41369,7 @@ GameObject:
   - component: {fileID: 1875033159}
   - component: {fileID: 1875033160}
   - component: {fileID: 1875033161}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41413,7 +41587,7 @@ GameObject:
   - component: {fileID: 1890131138}
   - component: {fileID: 1890131139}
   - component: {fileID: 1890131140}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41546,7 +41720,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1898279040}
   - component: {fileID: 1898279041}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_173
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41633,7 +41807,7 @@ GameObject:
   - component: {fileID: 1900840563}
   - component: {fileID: 1900840562}
   - component: {fileID: 1900840565}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_95 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42032,7 +42206,7 @@ GameObject:
   - component: {fileID: 1930706554}
   - component: {fileID: 1930706556}
   - component: {fileID: 1930706555}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42166,7 +42340,7 @@ GameObject:
   - component: {fileID: 1931983624}
   - component: {fileID: 1931983625}
   - component: {fileID: 1931983626}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42468,7 +42642,7 @@ GameObject:
   - component: {fileID: 1946338575}
   - component: {fileID: 1946338576}
   - component: {fileID: 1946338577}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42829,9 +43003,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1100219454, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42854,7 +43028,7 @@ GameObject:
   - component: {fileID: 1966851457}
   - component: {fileID: 1966851458}
   - component: {fileID: 1966851459}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42990,7 +43164,7 @@ GameObject:
   - component: {fileID: 1970715133}
   - component: {fileID: 1970715134}
   - component: {fileID: 1970715135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43124,7 +43298,7 @@ GameObject:
   - component: {fileID: 1978162919}
   - component: {fileID: 1978162920}
   - component: {fileID: 1978162921}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43258,7 +43432,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1978599770}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platforma (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43317,7 +43491,7 @@ GameObject:
   - component: {fileID: 1982857104}
   - component: {fileID: 1982857106}
   - component: {fileID: 1982857105}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43510,9 +43684,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -1134647909
+  m_SortingLayer: 1
+  m_SortingOrder: 1
   m_Sprite: {fileID: 383422731, guid: 28ae8bfcfcfe45949baf4243fdd8e12e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -43619,7 +43793,7 @@ GameObject:
   - component: {fileID: 2000692015}
   - component: {fileID: 2000692016}
   - component: {fileID: 2000692017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43753,7 +43927,7 @@ GameObject:
   - component: {fileID: 2008426343}
   - component: {fileID: 2008426344}
   - component: {fileID: 2008426345}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43889,7 +44063,7 @@ GameObject:
   - component: {fileID: 2008683178}
   - component: {fileID: 2008683179}
   - component: {fileID: 2008683180}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44107,7 +44281,7 @@ GameObject:
   - component: {fileID: 2016419928}
   - component: {fileID: 2016419929}
   - component: {fileID: 2016419930}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44241,7 +44415,7 @@ GameObject:
   - component: {fileID: 2022533172}
   - component: {fileID: 2022533171}
   - component: {fileID: 2022533170}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Box (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44672,7 +44846,7 @@ GameObject:
   - component: {fileID: 2037735722}
   - component: {fileID: 2037735723}
   - component: {fileID: 2037735724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45129,7 +45303,7 @@ GameObject:
   - component: {fileID: 2057996475}
   - component: {fileID: 2057996477}
   - component: {fileID: 2057996476}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45265,7 +45439,7 @@ GameObject:
   - component: {fileID: 2064913359}
   - component: {fileID: 2064913360}
   - component: {fileID: 2064913361}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45399,7 +45573,7 @@ GameObject:
   - component: {fileID: 2081755392}
   - component: {fileID: 2081755394}
   - component: {fileID: 2081755393}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45688,7 +45862,7 @@ GameObject:
   - component: {fileID: 2097272713}
   - component: {fileID: 2097272714}
   - component: {fileID: 2097272715}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45978,7 +46152,7 @@ GameObject:
   - component: {fileID: 2115567518}
   - component: {fileID: 2115567519}
   - component: {fileID: 2115567520}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46111,7 +46285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2116035438}
   - component: {fileID: 2116035439}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Interior-01_173
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46396,7 +46570,7 @@ GameObject:
   - component: {fileID: 2120915213}
   - component: {fileID: 2120915214}
   - component: {fileID: 2120915215}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46530,7 +46704,7 @@ GameObject:
   - component: {fileID: 2122273179}
   - component: {fileID: 2122273180}
   - component: {fileID: 2122273181}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46902,7 +47076,7 @@ GameObject:
   - component: {fileID: 2126910072}
   - component: {fileID: 2126910073}
   - component: {fileID: 2126910074}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47036,7 +47210,7 @@ GameObject:
   - component: {fileID: 2135941701}
   - component: {fileID: 2135941702}
   - component: {fileID: 2135941703}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_20 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47338,7 +47512,7 @@ GameObject:
   - component: {fileID: 2147467790}
   - component: {fileID: 2147467792}
   - component: {fileID: 2147467791}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Buildings_43 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
