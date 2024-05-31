@@ -1,0 +1,2 @@
+Build path: D:/UnityGB/YandexGame/Done/Bogatir
+Build number: 7
