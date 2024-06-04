@@ -68,7 +68,7 @@ MonoBehaviour:
     value: 0.1
   focalLength:
     overrideState: 1
-    value: 6
+    value: 13
   kernelSize:
     overrideState: 1
     value: 2
@@ -90,7 +90,7 @@ MonoBehaviour:
     value: 1
   shutterAngle:
     overrideState: 1
-    value: 270
+    value: 39
   sampleCount:
     overrideState: 1
     value: 10
@@ -162,7 +162,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.61
+    value: 1.03
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -180,10 +180,10 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 2.4
+    value: 7.6
   zBias:
     overrideState: 1
-    value: 0.000191
+    value: 0
   directLightingStrength:
     overrideState: 1
     value: 0
@@ -235,7 +235,7 @@ MonoBehaviour:
     defaultState: 1
   intensity:
     overrideState: 1
-    value: 0.222
+    value: 0.282
   fastMode:
     overrideState: 1
     value: 1

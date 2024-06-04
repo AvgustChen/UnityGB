@@ -1,0 +1,2 @@
+Build path: D:/UnityGB/YandexGame/Done/FarmSimulator
+Build number: 17
